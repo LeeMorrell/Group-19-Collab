@@ -2555,35 +2555,3 @@ Script Stack (0 frames):
 [2020.05.24-11.45.59:973][231]LogOutputDevice: Error: [Callstack] 0x00007ff9b382ce51 ntdll.dll!UnknownFunction []
 [2020.05.24-11.45.59:973][231]LogOutputDevice: Error: 
 [2020.05.24-11.45.59:980][231]LogStats:                SubmitErrorReport -  0.000 s
-[2020.05.24-11.46.05:354][231]LogStats:                    SendNewReport -  5.374 s
-[2020.05.24-11.46.05:354][231]LogStats:             FDebug::EnsureFailed -  6.797 s
-[2020.05.24-11.46.05:354][231]LogBehaviorTree: Warning: Can't initialize BTDecorator_Blackboard_30 due to missing blackboard data.
-[2020.05.24-11.46.05:354][231]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_1, make sure that behavior tree specifies blackboard asset!
-[2020.05.24-11.46.05:354][231]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_4, make sure that behavior tree specifies blackboard asset!
-[2020.05.24-11.46.05:354][231]LogBehaviorTree: Warning: Can't initialize BTDecorator_Blackboard_23 due to missing blackboard data.
-[2020.05.24-11.46.05:354][231]LogBehaviorTree: Warning: Can't initialize BTDecorator_Blackboard_24 due to missing blackboard data.
-[2020.05.24-11.46.05:354][231]LogBehaviorTree: Warning: Can't initialize BTDecorator_Blackboard_22 due to missing blackboard data.
-[2020.05.24-11.46.05:354][231]LogBehaviorTree: Warning: Can't initialize BTDecorator_Blackboard_21 due to missing blackboard data.
-[2020.05.24-11.46.05:354][231]LogBehaviorTree: Warning: Can't initialize BTDecorator_Blackboard_15 due to missing blackboard data.
-[2020.05.24-11.46.05:354][231]LogBehaviorTree: Warning: Can't initialize BTDecorator_Blackboard_16 due to missing blackboard data.
-[2020.05.24-11.46.05:357][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_RandomLocation'
-[2020.05.24-11.46.05:360][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BT_ChangeNPCSpeed'
-[2020.05.24-11.46.05:361][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_RunAway'
-[2020.05.24-11.46.05:363][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_MoveAway'
-[2020.05.24-11.46.05:364][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_FindPathPoint'
-[2020.05.24-11.46.05:365][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_IncrementPathNext'
-[2020.05.24-11.46.05:366][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_LoopPath'
-[2020.05.24-11.46.05:367][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_DecrementPath'
-[2020.05.24-11.46.05:368][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_ChangeNPCSpeed'
-[2020.05.24-11.46.05:369][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_Searching'
-[2020.05.24-11.46.05:370][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BT_ChangeNPCSpeed'
-[2020.05.24-11.46.05:371][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BT_ChangeNPCSpeed'
-[2020.05.24-11.46.05:372][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_ChangeNPCSpeed'
-[2020.05.24-11.46.05:373][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_Searching'
-[2020.05.24-11.46.05:374][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_ChangeState'
-[2020.05.24-11.46.05:374][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_ChangeState'
-[2020.05.24-11.46.05:375][231]LogLinker: Warning: Can't find file '/Game/TopDownBP/Collab/Enemies/Scientist/BTFunctions/BT_ChangeState'
-[2020.05.24-11.46.11:262][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
-[2020.05.24-11.46.11:419][914]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Group-19-Collab/Group19UnrealProject/Saved/Scientist_Test98B559284858F3C3D3BDE68C751D638A.tmp' to 'C:/Users/Matthew/Documents/GitHub/Group-19-Collab/Group19UnrealProject/Content/AI/Scientist/Scientist_Test.umap'
-[2020.05.24-11.46.31:734][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
-[2020.05.24-11.46.31:775][724]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Group-19-Collab/Group19UnrealProject/Saved/BP_ScientistController5C1AC9884D5FD2F84F73CA8043DA0E3A.tmp' to 'C:/Users/Matthew/Documents/GitHub/Group-19-Collab/Group19UnrealProject/Content/AI/Scientist/BP_ScientistController.uasset'
