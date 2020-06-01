@@ -1235,3 +1235,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.01-00.16.18:413][950]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
 [2020.06.01-00.16.18:576][950]LogModuleManager: Shutting down and abandoning module XMPP (55)
 [2020.06.01-00.16.18:740][950]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.06.01-00.16.19:173][950]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.06.01-00.16.19:173][950]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.06.01-00.16.19:173][950]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B530C1043-43E1-52ED-B62C-61B13A9BD456%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=079544c34e59cd4dfa6cd39c050931c9%7Ccd6f8cb9e0c04353aec384c23917280a%7C381693fb-4305-4ce4-b24c-31a8fda10d14&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.06.01-00.16.19:173][950]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B530C1043-43E1-52ED-B62C-61B13A9BD456%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=079544c34e59cd4dfa6cd39c050931c9%7Ccd6f8cb9e0c04353aec384c23917280a%7C381693fb-4305-4ce4-b24c-31a8fda10d14&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.06.01-00.16.19:178][950]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.06.01-00.16.19:329][950]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.06.01-00.16.19:435][950]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.06.01-00.16.19:442][950]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.06.01-00.16.19:456][950]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.06.01-00.16.19:457][950]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.06.01-00.16.19:468][950]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.06.01-00.16.19:501][950]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.06.01-00.16.19:770][950]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.06.01-00.16.20:061][950]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.06.01-00.16.20:061][950]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.06.01-00.16.20:061][950]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.06.01-00.16.20:256][950]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.06.01-00.16.20:359][950]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.06.01-00.16.20:359][950]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.06.01-00.16.20:359][950]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.06.01-00.16.20:398][950]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.06.01-00.16.20:398][950]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.06.01-00.16.20:398][950]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.06.01-00.16.20:438][950]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.06.01-00.16.20:438][950]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.06.01-00.16.20:478][950]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.06.01-00.16.20:478][950]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.06.01-00.16.20:546][950]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.06.01-00.16.20:758][950]LogExit: Exiting.
+[2020.06.01-00.16.20:807][950]Log file closed, 06/01/20 01:16:20
