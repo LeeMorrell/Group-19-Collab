@@ -1,0 +1,1017 @@
+﻿Log file open, 06/03/20 19:38:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Group19UnrealProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.365995
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.03-18.38.41:800][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.03-18.38.41:800][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.03-18.38.41:800][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Engine.ini]
+[2020.06.03-18.38.41:800][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.03-18.38.41:800][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.06.03-18.38.41:800][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Engine.ini]
+[2020.06.03-18.38.41:800][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Engine.ini]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Engine.ini]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.03-18.38.41:801][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Engine.ini]
+[2020.06.03-18.38.41:801][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Engine.ini]
+[2020.06.03-18.38.41:804][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.03-18.38.41:804][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.03-18.38.41:805][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.03-18.38.41:806][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.03-18.38.41:806][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.03-18.38.41:806][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.03-18.38.41:806][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:806][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.03-18.38.41:806][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.03-18.38.41:806][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.03-18.38.41:806][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.03-18.38.41:844][  0]LogHAL: Display: Platform has ~ 16 GB [17090830336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.06.03-18.38.41:844][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.03-18.38.41:844][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.03-18.38.41:844][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.03-18.38.41:844][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.03-18.38.41:844][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.03-18.38.41:845][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.03-18.38.41:846][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.03-18.38.41:853][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.03-18.38.41:853][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.03-18.38.41:853][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Config/Windows/Engine.ini]
+[2020.06.03-18.38.41:853][  0]LogInit: Computer: DESKTOP-POPSFSP
+[2020.06.03-18.38.41:853][  0]LogInit: User: DESKTOP
+[2020.06.03-18.38.41:854][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.03-18.38.41:854][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.03-18.38.41:854][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.06.03-18.38.41:854][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.03-18.38.41:854][  0]LogMemory: Process Physical Memory: 100.58 MB used, 100.58 MB peak
+[2020.06.03-18.38.41:854][  0]LogMemory: Process Virtual Memory: 92.63 MB used, 92.63 MB peak
+[2020.06.03-18.38.41:854][  0]LogMemory: Physical Memory: 7221.56 MB used,  9077.52 MB free, 16299.09 MB total
+[2020.06.03-18.38.41:854][  0]LogMemory: Virtual Memory: 4646.39 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.06.03-18.38.42:147][  0]LogInit: Using OS detected language (en-GB).
+[2020.06.03-18.38.42:147][  0]LogInit: Using OS detected locale (en-GB).
+[2020.06.03-18.38.42:148][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.06.03-18.38.42:428][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.03-18.38.42:533][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.03-18.38.42:533][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.03-18.38.44:948][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.03-18.38.44:948][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.03-18.38.45:019][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.06.03-18.38.45:019][  0]LogD3D11RHI:       8088/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.03-18.38.45:023][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.03-18.38.45:023][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.03-18.38.45:023][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.03-18.38.45:041][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.03-18.38.45:041][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.03-18.38.45:041][  0]LogWindows: EnumDisplayDevices:
+[2020.06.03-18.38.45:041][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.06.03-18.38.45:041][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.06.03-18.38.45:042][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.03-18.38.45:042][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.03-18.38.45:042][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.03-18.38.45:042][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.06.03-18.38.45:042][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.06.03-18.38.45:042][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.06.03-18.38.45:042][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.06.03-18.38.45:083][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.03-18.38.45:093][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.06.03-18.38.45:093][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.06.03-18.38.45:093][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.06.03-18.38.45:107][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.06.03-18.38.45:664][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.06.03-18.38.45:686][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.06.03-18.38.45:708][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.06.03-18.38.45:729][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.06.03-18.38.45:756][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.06.03-18.38.45:778][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.06.03-18.38.45:802][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.03-18.38.45:828][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.06.03-18.38.45:845][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.06.03-18.38.45:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.06.03-18.38.45:956][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.06.03-18.38.46:092][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.06.03-18.38.46:092][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.06.03-18.38.46:124][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.06.03-18.38.46:124][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.06.03-18.38.46:150][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.06.03-18.38.46:171][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.03-18.38.46:195][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.06.03-18.38.46:224][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.06.03-18.38.46:277][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.06.03-18.38.46:277][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.06.03-18.38.46:277][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.03-18.38.46:336][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.03-18.38.46:686][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Intermediate/Shaders/WorkingDirectory/10324/).
+[2020.06.03-18.38.46:686][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DESKTOP/AppData/Local/Temp/UnrealShaderWorkingDir/A12127784845B6C58E18118CFB0F7F14/'.
+[2020.06.03-18.38.46:688][  0]LogXGEController: Cleaning working directory: C:/Users/DESKTOP/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.03-18.38.46:688][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.03-18.38.46:688][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.03-18.38.46:688][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.03-18.38.48:871][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.03-18.38.49:059][  0]LogDerivedDataCache: Loaded boot cache 0.19s 71MB C:/Users/DESKTOP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.06.03-18.38.49:059][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DESKTOP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.06.03-18.38.49:059][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.03-18.38.49:059][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.03-18.38.49:059][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.03-18.38.49:059][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.03-18.38.49:078][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.03-18.38.49:078][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.03-18.38.49:078][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.03-18.38.49:090][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DESKTOP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.03-18.38.49:090][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.03-18.38.49:090][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.03-18.38.49:109][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.03-18.38.49:110][  0]LogSlate: Using FreeType 2.6.0
+[2020.06.03-18.38.49:121][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.03-18.38.49:347][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
+[2020.06.03-18.38.49:728][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.03-18.38.50:311][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.03-18.38.50:311][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.03-18.38.50:311][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.03-18.38.50:311][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.03-18.38.50:311][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.03-18.38.50:344][  0]LogNetVersion: Group19UnrealProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 623720685)
+[2020.06.03-18.38.51:221][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.035170 seconds
+[2020.06.03-18.38.51:227][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.06.03-18.38.51:227][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.06.03-18.38.51:227][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.03-18.38.54:602][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.03-18.38.54:628][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.03-18.38.54:966][  0]SourceControl: Source control is disabled
+[2020.06.03-18.38.54:966][  0]SourceControl: Source control is disabled
+[2020.06.03-18.38.55:022][  0]SourceControl: Source control is disabled
+[2020.06.03-18.38.55:036][  0]SourceControl: Source control is disabled
+[2020.06.03-18.38.55:075][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.06.03-18.38.55:076][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.06.03-18.38.55:714][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.03-18.38.56:076][  0]LogOcInput: OculusInput pre-init called
+[2020.06.03-18.38.56:832][  0]LogEngine: Initializing Engine...
+[2020.06.03-18.38.56:832][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.03-18.38.56:833][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.03-18.38.57:209][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.03-18.38.57:246][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.03-18.38.57:275][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.03-18.38.57:300][  0]LogInit: FAudioDevice initialized.
+[2020.06.03-18.38.57:300][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.03-18.38.57:384][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/DESKTOP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.06.03-18.38.57:388][  0]LogInit: Texture streaming: Enabled
+[2020.06.03-18.38.57:445][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.03-18.38.57:493][  0]LogInit: Transaction tracking system initialized
+[2020.06.03-18.38.57:582][  0]BlueprintLog: New page: Editor Load
+[2020.06.03-18.38.58:083][  0]LocalizationService: Localization service is disabled
+[2020.06.03-18.38.59:140][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.06.03-18.38.59:141][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.06.03-18.38.59:554][  0]LogFileCache: Scanning file cache for directory 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/' took 0.02s
+[2020.06.03-18.38.59:554][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.03-18.38.59:554][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.03-18.39.00:521][  0]SourceControl: Source control is disabled
+[2020.06.03-18.39.00:521][  0]Cmd: MAP LOAD FILE="D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.03-18.39.00:542][  0]LightingResults: New page: Lighting Build
+[2020.06.03-18.39.00:544][  0]MapCheck: New page: Map Check
+[2020.06.03-18.39.00:544][  0]LightingResults: New page: Lighting Build
+[2020.06.03-18.39.00:565][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.06.03-18.39.00:661][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2020.06.03-18.39.00:661][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2020.06.03-18.39.01:037][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2020.06.03-18.39.01:037][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2020.06.03-18.39.01:328][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2020.06.03-18.39.01:328][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2020.06.03-18.39.01:329][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2020.06.03-18.39.01:329][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2020.06.03-18.39.01:361][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2020.06.03-18.39.01:362][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2020.06.03-18.39.01:362][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2020.06.03-18.39.01:581][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.06.03-18.39.01:607][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.03-18.39.01:629][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.06.03-18.39.01:629][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.03-18.39.01:629][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2020.06.03-18.39.01:629][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.109
+[2020.06.03-18.39.01:723][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.03-18.39.01:729][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.03-18.39.01:736][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.03-18.39.01:742][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.03-18.39.01:765][  0]LogCollectionManager: Loaded 0 collections in 0.001508 seconds
+[2020.06.03-18.39.01:803][  0]LogFileCache: Scanning file cache for directory 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Collections/' took 0.01s
+[2020.06.03-18.39.01:803][  0]LogFileCache: Scanning file cache for directory 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Developers/DESKTOP/Collections/' took 0.01s
+[2020.06.03-18.39.01:803][  0]LogFileCache: Scanning file cache for directory 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Collections/' took 0.01s
+[2020.06.03-18.39.01:803][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.06.03-18.39.01:810][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2732 classes and 659 folders.
+[2020.06.03-18.39.01:815][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.03-18.39.01:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:861][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:866][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:942][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:977][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.01:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.06.03-18.39.02:116][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.03-18.39.02:145][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.06.03-18.39.02:225][  0]LogSlate: Took 0.006613 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.03-18.39.02:232][  0]LogSlate: Took 0.004290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.03-18.39.02:239][  0]LogSlate: Took 0.005610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.03-18.39.02:318][  0]LogRenderer: Reallocating scene render targets to support 1528x540 Format 10 NumSamples 1 (Frame:1).
+[2020.06.03-18.39.02:598][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.03-18.39.02:598][  0]LogLoad: (Engine Initialization) Total time: 24.96 seconds
+[2020.06.03-18.39.02:598][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.03-18.39.02:636][  0]LogAssetRegistry: Asset discovery search completed in 13.3114 seconds
+[2020.06.03-18.39.02:638][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.06.03-18.39.02:638][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2020.06.03-18.39.02:639][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.03-18.39.02:647][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.03-18.39.05:035][132]LogSlate: Window 'Message Log' being destroyed
+[2020.06.03-18.39.05:038][132]LogSlate: Window 'Message Log' being destroyed
+[2020.06.03-18.39.07:996][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.39.11:585][872]LogSlate: Took 0.005418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.03-18.39.13:075][872]LogAIModule: Creating AISystem for world StorageRoom
+[2020.06.03-18.39.13:091][872]LogAssetEditorManager: Opening Asset editor for World /Game/Art/Rooms/StorageRoom/StorageRoom.StorageRoom
+[2020.06.03-18.39.13:112][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.06.03-18.39.13:112][872]Cmd: MAP LOAD FILE="D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/Rooms/StorageRoom/StorageRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.03-18.39.13:112][872]LightingResults: New page: Lighting Build
+[2020.06.03-18.39.13:113][872]LoadErrors: New page: Loading map: StorageRoom.umap
+[2020.06.03-18.39.13:114][872]MapCheck: New page: Map Check
+[2020.06.03-18.39.13:115][872]LightingResults: New page: Lighting Build
+[2020.06.03-18.39.13:135][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.06.03-18.39.13:191][872]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.03-18.39.13:211][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.06.03-18.39.13:231][872]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.03-18.39.13:232][872]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2020.06.03-18.39.13:232][872]LogFileHelpers: Loading map 'StorageRoom' took 0.120
+[2020.06.03-18.39.21:300][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (scanner_table)
+[2020.06.03-18.39.21:621][842]Cmd: DELETE
+[2020.06.03-18.39.21:621][842]Cmd: ACTOR DELETE
+[2020.06.03-18.39.21:628][842]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.39.21:645][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.06.03-18.39.21:645][842]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.06.03-18.39.21:955][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HospitalScreen)
+[2020.06.03-18.39.22:045][884]Cmd: DELETE
+[2020.06.03-18.39.22:045][884]Cmd: ACTOR DELETE
+[2020.06.03-18.39.22:047][884]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.39.22:065][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.06.03-18.39.22:065][884]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.06.03-18.39.22:663][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (glass_jar_jar)
+[2020.06.03-18.39.22:794][966]Cmd: DELETE
+[2020.06.03-18.39.22:794][966]Cmd: ACTOR DELETE
+[2020.06.03-18.39.22:796][966]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.39.22:814][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.39.22:815][966]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.06.03-18.39.23:171][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (open_organ_box)
+[2020.06.03-18.39.23:279][ 16]Cmd: DELETE
+[2020.06.03-18.39.23:279][ 16]Cmd: ACTOR DELETE
+[2020.06.03-18.39.23:281][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.39.23:300][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.06.03-18.39.23:300][ 16]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.06.03-18.39.23:631][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (closed_organ_box)
+[2020.06.03-18.39.23:737][ 63]Cmd: DELETE
+[2020.06.03-18.39.23:737][ 63]Cmd: ACTOR DELETE
+[2020.06.03-18.39.23:740][ 63]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.39.23:756][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.39.23:756][ 63]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.06.03-18.39.24:918][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MedicalTable)
+[2020.06.03-18.39.26:051][330]Cmd: DELETE
+[2020.06.03-18.39.26:051][330]Cmd: ACTOR DELETE
+[2020.06.03-18.39.26:054][330]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.39.26:071][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.39.26:071][330]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.06.03-18.39.26:301][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (paper_2)
+[2020.06.03-18.39.26:437][369]Cmd: DELETE
+[2020.06.03-18.39.26:437][369]Cmd: ACTOR DELETE
+[2020.06.03-18.39.26:439][369]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.39.26:455][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.39.26:456][369]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.06.03-18.39.26:996][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (paper_3)
+[2020.06.03-18.39.27:182][451]Cmd: DELETE
+[2020.06.03-18.39.27:182][451]Cmd: ACTOR DELETE
+[2020.06.03-18.39.27:185][451]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.39.27:202][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.06.03-18.39.27:202][451]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.06.03-18.39.27:657][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (paper_1)
+[2020.06.03-18.39.27:745][511]Cmd: DELETE
+[2020.06.03-18.39.27:745][511]Cmd: ACTOR DELETE
+[2020.06.03-18.39.27:748][511]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.39.27:764][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.06.03-18.39.27:764][511]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.06.03-18.39.31:679][880]LogRenderer: Reallocating scene render targets to support 1528x560 Format 10 NumSamples 1 (Frame:2121).
+[2020.06.03-18.39.32:889][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.03-18.39.34:618][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.03-18.39.34:633][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.03-18.39.34:641][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.03-18.39.34:648][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.03-18.39.34:657][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.03-18.39.35:744][349]LogRenderer: Reallocating scene render targets to support 1916x1024 Format 10 NumSamples 1 (Frame:2494).
+[2020.06.03-18.39.37:493][523]LogSlate: Took 0.005069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.03-18.39.40:959][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_pannel_floor__1_12)
+[2020.06.03-18.39.42:296][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.03-18.39.43:652][142]LogEditorViewport: Clicking on Actor (LMB): Asset_Door_C (Asset_Door)
+[2020.06.03-18.39.44:521][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2M_Low10)
+[2020.06.03-18.39.45:994][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.39.57:470][145]Cmd: TRANSACTION UNDO
+[2020.06.03-18.39.57:470][145]LogEditorTransaction: Undo Clicking on Actors
+[2020.06.03-18.39.58:062][185]Cmd: TRANSACTION UNDO
+[2020.06.03-18.39.58:062][185]LogEditorTransaction: Undo Clicking on Actors
+[2020.06.03-18.39.58:686][218]Cmd: TRANSACTION UNDO
+[2020.06.03-18.39.58:686][218]LogEditorTransaction: Undo Clicking on Actors
+[2020.06.03-18.39.59:092][251]Cmd: TRANSACTION UNDO
+[2020.06.03-18.39.59:092][251]LogEditorTransaction: Undo Delete Actors
+[2020.06.03-18.39.59:514][281]Cmd: TRANSACTION UNDO
+[2020.06.03-18.39.59:514][281]LogEditorTransaction: Undo Clicking on Actors
+[2020.06.03-18.39.59:949][316]Cmd: TRANSACTION UNDO
+[2020.06.03-18.39.59:949][316]LogEditorTransaction: Undo Delete Actors
+[2020.06.03-18.40.00:698][371]Cmd: TRANSACTION UNDO
+[2020.06.03-18.40.00:698][371]LogEditorTransaction: Undo Clicking on Actors
+[2020.06.03-18.40.00:858][384]Cmd: TRANSACTION UNDO
+[2020.06.03-18.40.00:858][384]LogEditorTransaction: Undo Delete Actors
+[2020.06.03-18.40.02:039][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.06.03-18.40.02:918][457]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.03-18.40.02:926][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.03-18.40.02:945][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.03-18.40.02:976][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.06.03-18.40.03:764][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.40.37:884][984]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/M_DarkGreyMetal2E952E9C4CB1252754A79898158F87F4.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/AssetMaterials/Colours/M_DarkGreyMetal.uasset'
+[2020.06.03-18.40.37:917][984]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/M_Foilage28158B7D644DF51C5CEA946A00B46C0C5.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/AssetMaterials/Colours/M_Foilage2.uasset'
+[2020.06.03-18.40.38:022][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.06.03-18.40.38:039][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.06.03-18.40.38:059][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.06.03-18.40.38:075][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.06.03-18.40.38:131][984]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/medium_plant_deskB97143B643EAB5CC913B8CB2B9D77613.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/HydroponicsLab/MediumPlantDesk/medium_plant_desk.uasset'
+[2020.06.03-18.40.38:183][984]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/plant_2FC4574A440F81B42A26B98A557795F03.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/HydroponicsLab/Plants/plant_2.uasset'
+[2020.06.03-18.40.38:233][984]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/plant_tray_wall__top_one_pulled_61AA034D44073295E65059990250DC5E.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/HydroponicsLab/PlantWall/plant_tray_wall__top_one_pulled_out_.uasset'
+[2020.06.03-18.40.38:321][984]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/wall_piece_13EA7400F43BE3959BF7DF888E44CB383.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/HydroponicsLab/PlantWall/wall_piece_1.uasset'
+[2020.06.03-18.40.38:375][984]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Vine_SplineEB0FBFCB463746CF45B6D58213E607CC.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StarterRoom/CableSpline/Vine_Spline.uasset'
+[2020.06.03-18.40.56:891][447]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/M_AccentBlue763C620C484868D44201BF8660B65616.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/AssetMaterials/Colours/M_AccentBlue.uasset'
+[2020.06.03-18.40.56:964][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.06.03-18.40.56:985][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.06.03-18.40.57:003][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.41.00:112][807]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Art/RoomAssets/AssetMaterials/Colours/M_AccentBlue.M_AccentBlue
+[2020.06.03-18.41.06:864][400]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.03-18.41.07:744][477]LogSlate: Window 'M_AccentBlue' being destroyed
+[2020.06.03-18.41.07:766][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.06.03-18.41.07:783][477]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.03-18.41.08:417][477]TextureStreamingBuild: Display: Compiling optional shaders took 0.640 seconds.
+[2020.06.03-18.41.08:442][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.41.13:051][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4M_Low3)
+[2020.06.03-18.41.13:643][950]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCornerCyl__2_4)
+[2020.06.03-18.41.13:884][969]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low4)
+[2020.06.03-18.41.14:376][ 11]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low12)
+[2020.06.03-18.41.15:350][ 98]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low13)
+[2020.06.03-18.41.17:300][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.41.18:910][446]Cmd: MODE GRID=1
+[2020.06.03-18.41.19:582][508]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low11)
+[2020.06.03-18.41.19:962][541]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low15)
+[2020.06.03-18.41.20:944][628]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low14)
+[2020.06.03-18.41.22:596][766]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low12)
+[2020.06.03-18.41.22:934][785]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCornerCyl__2_3)
+[2020.06.03-18.41.23:261][800]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low9)
+[2020.06.03-18.41.24:870][921]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall1M_Low16)
+[2020.06.03-18.42.57:109][377]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.03-18.42.59:153][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (paper_1)
+[2020.06.03-18.42.59:857][625]Cmd: DELETE
+[2020.06.03-18.42.59:857][625]Cmd: ACTOR DELETE
+[2020.06.03-18.42.59:861][625]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.42.59:880][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.06.03-18.42.59:880][625]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.06.03-18.43.00:356][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (paper_2)
+[2020.06.03-18.43.00:486][687]Cmd: DELETE
+[2020.06.03-18.43.00:486][687]Cmd: ACTOR DELETE
+[2020.06.03-18.43.00:488][687]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.43.00:505][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.43.00:505][687]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.06.03-18.43.01:235][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_pannel_floor__1_15)
+[2020.06.03-18.43.01:784][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (paper_3)
+[2020.06.03-18.43.02:169][853]Cmd: DELETE
+[2020.06.03-18.43.02:169][853]Cmd: ACTOR DELETE
+[2020.06.03-18.43.02:172][853]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.43.02:189][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.43.02:190][853]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.06.03-18.43.03:748][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.03-18.43.07:119][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1M_Low14)
+[2020.06.03-18.43.07:546][412]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low19)
+[2020.06.03-18.43.07:864][442]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low2)
+[2020.06.03-18.43.08:934][547]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCornerCyl__2_2)
+[2020.06.03-18.43.09:243][575]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low2)
+[2020.06.03-18.43.09:877][637]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low)
+[2020.06.03-18.43.10:291][677]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall1M_Low11)
+[2020.06.03-18.43.10:607][706]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low)
+[2020.06.03-18.43.11:407][783]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low4)
+[2020.06.03-18.43.13:018][924]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low9)
+[2020.06.03-18.43.13:511][955]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall1M_Low17)
+[2020.06.03-18.43.13:815][971]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low3)
+[2020.06.03-18.43.14:725][ 51]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCornerCyl__2_4)
+[2020.06.03-18.43.14:966][ 69]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low4)
+[2020.06.03-18.43.15:901][151]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low12)
+[2020.06.03-18.43.16:858][234]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low13)
+[2020.06.03-18.43.17:197][263]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low11)
+[2020.06.03-18.43.17:875][323]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low14)
+[2020.06.03-18.43.20:567][545]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low15)
+[2020.06.03-18.43.21:191][584]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low12)
+[2020.06.03-18.43.21:723][630]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCornerCyl__2_3)
+[2020.06.03-18.43.23:022][729]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low9)
+[2020.06.03-18.43.23:629][767]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall1M_Low16)
+[2020.06.03-18.43.24:092][805]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low10)
+[2020.06.03-18.43.26:156][974]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low8)
+[2020.06.03-18.43.26:656][ 10]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low11)
+[2020.06.03-18.43.27:323][ 68]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall1M_Low13)
+[2020.06.03-18.43.28:202][152]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low16)
+[2020.06.03-18.43.28:672][196]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low17)
+[2020.06.03-18.43.29:015][228]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCornerCyl__2_)
+[2020.06.03-18.43.30:015][323]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4M_Low10)
+[2020.06.03-18.43.30:664][385]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall2M_Low18)
+[2020.06.03-18.43.32:342][524]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall1M_Low15)
+[2020.06.03-18.43.35:252][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.43.56:099][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cables_Low25)
+[2020.06.03-18.43.58:455][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.44.01:779][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cables_Low26)
+[2020.06.03-18.44.02:561][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.44.04:355][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sci_fi_Screen3)
+[2020.06.03-18.44.06:080][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.44.13:422][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sci_fi_Screen2)
+[2020.06.03-18.44.14:289][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.45.25:771][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sci_fi_Screen4)
+[2020.06.03-18.45.27:353][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.45.32:105][227]LogEditorViewport: Clicking on Actor (LMB): Asset_Door_C (Asset_Door3)
+[2020.06.03-18.45.33:474][349]LogSlate: Took 0.006181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.03-18.45.33:983][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.45.44:953][389]LogEditorViewport: Clicking on Actor (LMB): Asset_Door_C (Asset_Door2)
+[2020.06.03-18.45.46:480][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.45.52:200][ 17]LogEditorViewport: Clicking on Actor (LMB): Asset_Door_C (Asset_Door)
+[2020.06.03-18.45.53:548][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.46.00:985][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cables_Low32)
+[2020.06.03-18.46.02:099][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.46.09:343][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.46.09:579][466]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Art/RoomAssets/AssetMaterials/Colours/M_AccentBlue.M_AccentBlue
+[2020.06.03-18.46.37:281][993]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.03-18.46.39:094][155]LogSlate: Window 'M_AccentBlue' being destroyed
+[2020.06.03-18.46.39:115][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.06.03-18.46.39:125][155]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.03-18.46.39:416][155]TextureStreamingBuild: Display: Compiling optional shaders took 0.295 seconds.
+[2020.06.03-18.46.39:435][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.47.00:414][448]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/M_AccentYellowC55A8B4543C99C6B65BCBCA47E6DD667.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/AssetMaterials/Colours/M_AccentYellow.uasset'
+[2020.06.03-18.47.00:518][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.06.03-18.47.00:539][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.06.03-18.47.00:556][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.06.03-18.48.17:680][295]LogSlate: Window 'Viewport 2' being destroyed
+[2020.06.03-18.48.17:683][295]LogSlate: Window 'Viewport 2' being destroyed
+[2020.06.03-18.48.38:099][606]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\DESKTOP\Downloads\ROBOTARM.fbx)
+[2020.06.03-18.48.38:110][606]LogFbx: Loading FBX Scene from C:\Users\DESKTOP\Downloads\ROBOTARM.fbx
+[2020.06.03-18.48.38:123][606]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.03-18.48.40:408][606]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.03-18.48.40:437][606]LogFbx: Display: Triangulating static mesh pCube24
+[2020.06.03-18.48.40:545][606]LogStaticMesh: Building static mesh ROBOTARM...
+[2020.06.03-18.48.40:578][606]LogStaticMesh: Built static mesh [0.03s] /Game/Art/RoomAssets/StorageRoom/OperationRobotArms/ROBOTARM.ROBOTARM
+[2020.06.03-18.48.40:586][606]LogStaticMesh: Warning: ROBOTARM has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.06.03-18.48.40:586][606]LogStaticMesh: Warning: ROBOTARM has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.06.03-18.48.40:599][606]FBXImport: Warning: ROBOTARM has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.06.03-18.48.40:599][606]FBXImport: Warning: ROBOTARM has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.06.03-18.48.41:785][744]LogSlate: Window 'Message Log' being destroyed
+[2020.06.03-18.48.41:788][744]LogSlate: Window 'Message Log' being destroyed
+[2020.06.03-18.48.43:557][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.48.43:627][956]LogActorFactory: Actor Factory created ROBOTARM
+[2020.06.03-18.48.44:447][ 51]LogActorFactory: Actor Factory created ROBOTARM
+[2020.06.03-18.48.48:018][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.48.51:916][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.49.02:209][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.49.02:305][126]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Art/RoomAssets/StorageRoom/OperationRobotArms/ROBOTARM.ROBOTARM
+[2020.06.03-18.49.10:764][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.03-18.49.13:412][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.49.16:933][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.49.25:075][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.49.28:109][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.49.32:757][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.49.58:743][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.50.11:278][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ROBOTARM)
+[2020.06.03-18.50.23:476][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ROBOTARM)
+[2020.06.03-18.50.24:230][305]Cmd: DELETE
+[2020.06.03-18.50.24:230][305]Cmd: ACTOR DELETE
+[2020.06.03-18.50.24:232][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.03-18.50.24:251][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.06.03-18.50.24:251][305]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.06.03-18.50.25:253][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.50.25:311][429]LogSlate: Window 'ROBOTARM' being destroyed
+[2020.06.03-18.51.02:250][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/HospitalScreen/HospitalScreen.HospitalScreen' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/HospitalScreen/HospitalScreen.PackageMetaData'
+[2020.06.03-18.51.02:269][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/OperationTable/MedicalTable.MedicalTable' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/OperationTable/MedicalTable.PackageMetaData'
+[2020.06.03-18.51.02:285][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/OrganScanner/closed_organ_box.closed_organ_box' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/OrganScanner/closed_organ_box.PackageMetaData'
+[2020.06.03-18.51.02:296][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/OrganScanner/glass_jar_jar.glass_jar_jar' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/OrganScanner/glass_jar_jar.PackageMetaData'
+[2020.06.03-18.51.02:303][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/OrganScanner/open_organ_box.open_organ_box' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/OrganScanner/open_organ_box.PackageMetaData'
+[2020.06.03-18.51.02:313][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/Paper/paper_1.paper_1' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/Paper/paper_1.PackageMetaData'
+[2020.06.03-18.51.02:320][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/Paper/paper_2.paper_2' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/Paper/paper_2.PackageMetaData'
+[2020.06.03-18.51.02:326][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/Paper/paper_3.paper_3' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/Paper/paper_3.PackageMetaData'
+[2020.06.03-18.51.02:335][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/ScannerTable/scanner_table.scanner_table' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/ScannerTable/scanner_table.PackageMetaData'
+[2020.06.03-18.51.02:341][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/OperationRobotArms/ROBOTARM.ROBOTARM' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/OperationRobotArms/ROBOTARM.PackageMetaData'
+[2020.06.03-18.51.02:348][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/Boxes/Boxes_1.Boxes_1' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/Boxes/Boxes_1.PackageMetaData'
+[2020.06.03-18.51.02:354][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/Boxes/Boxes_2.Boxes_2' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/Boxes/Boxes_2.PackageMetaData'
+[2020.06.03-18.51.02:360][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/Boxes/Boxes_3.Boxes_3' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/Boxes/Boxes_3.PackageMetaData'
+[2020.06.03-18.51.02:365][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/CardboardBoxes/box3.box3' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/CardboardBoxes/box3.PackageMetaData'
+[2020.06.03-18.51.02:371][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/CardboardBoxes/box_1.box_1' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/CardboardBoxes/box_1.PackageMetaData'
+[2020.06.03-18.51.02:378][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/CardboardBoxes/box_2.box_2' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/CardboardBoxes/box_2.PackageMetaData'
+[2020.06.03-18.51.02:384][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/PropaneTank/propane_tank.propane_tank' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/PropaneTank/propane_tank.PackageMetaData'
+[2020.06.03-18.51.02:391][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/RobotArm/robot_arm.robot_arm' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/RobotArm/robot_arm.PackageMetaData'
+[2020.06.03-18.51.02:397][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/ToolBox/StandingToolBox.StandingToolBox' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/ToolBox/StandingToolBox.PackageMetaData'
+[2020.06.03-18.51.02:403][698]LogMetaData: Removing '/Game/Art/RoomAssets/StorageRoomAndMedicalLab/Trolley/Pallet_trolly.Pallet_trolly' ref from Metadata '/Game/Art/RoomAssets/StorageRoom/Trolley/Pallet_trolly.PackageMetaData'
+[2020.06.03-18.51.02:470][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/HospitalScreen38BD840C46162039EC14F3957B444343.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/HospitalScreen/HospitalScreen.uasset'
+[2020.06.03-18.51.02:506][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/HospitalScreenDAE9EA2845309E825FCF7FB16E6AC047.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/HospitalScreen/HospitalScreen.uasset'
+[2020.06.03-18.51.02:558][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/MedicalTable0E261BED45C0C63B6EABC784D188DF15.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/OperationTable/MedicalTable.uasset'
+[2020.06.03-18.51.02:579][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/MedicalTable386CD77F44F4D458671D8A9C6F967FD2.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/OperationTable/MedicalTable.uasset'
+[2020.06.03-18.51.02:623][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/closed_organ_boxA4AB5F474FF45E6A92CF6F9D2A85B900.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/OrganScanner/closed_organ_box.uasset'
+[2020.06.03-18.51.02:659][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/closed_organ_box555A72134AB25255920D2A923A2B9E22.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/OrganScanner/closed_organ_box.uasset'
+[2020.06.03-18.51.02:722][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/glass_jar_jar33F4CD08456BEF678A77869D05837392.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/OrganScanner/glass_jar_jar.uasset'
+[2020.06.03-18.51.02:759][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/glass_jar_jar80501BB84FCAEBD6E1F52EA85AB3C690.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/OrganScanner/glass_jar_jar.uasset'
+[2020.06.03-18.51.02:814][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/open_organ_box9A989FED40E2D85AACD7D889FC81D1C8.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/OrganScanner/open_organ_box.uasset'
+[2020.06.03-18.51.02:903][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/open_organ_boxFC7D380243A6CFC289A11084DF1118C2.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/OrganScanner/open_organ_box.uasset'
+[2020.06.03-18.51.02:970][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/paper_1139729FB40E56A489BB107A3331F699E.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/Paper/paper_1.uasset'
+[2020.06.03-18.51.03:005][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/paper_1011B28D94B578F2104ECC8A63ECA2B31.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/Paper/paper_1.uasset'
+[2020.06.03-18.51.03:038][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/paper_2EBA20F0E4DBA2744B184BCA11289E143.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/Paper/paper_2.uasset'
+[2020.06.03-18.51.03:109][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/paper_2B97B99854D83BFF3E3BA77B9225B931B.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/Paper/paper_2.uasset'
+[2020.06.03-18.51.03:191][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/paper_372DAC4C7428AB082154F3A8DDE247C75.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/Paper/paper_3.uasset'
+[2020.06.03-18.51.03:292][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/paper_3C443B5B84B7AFF0CF3B596AAC07C829A.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/Paper/paper_3.uasset'
+[2020.06.03-18.51.03:387][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/scanner_table678DA3EC4AE63C3A9F8C458D8F0A4F12.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/ScannerTable/scanner_table.uasset'
+[2020.06.03-18.51.03:407][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/scanner_table536BBB5A4E96BFE3AB1E19BDA6297D3C.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/ScannerTable/scanner_table.uasset'
+[2020.06.03-18.51.03:471][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/ROBOTARMF5ABD88B4BB181F8ED02BEA259B280D4.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/OperationRobotArms/ROBOTARM.uasset'
+[2020.06.03-18.51.03:507][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Boxes_1AAA5112F429C94108769C4A0756A2BDF.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/Boxes/Boxes_1.uasset'
+[2020.06.03-18.51.03:541][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Boxes_257ADE47D451E6128D9275D9137226939.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/Boxes/Boxes_2.uasset'
+[2020.06.03-18.51.03:598][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Boxes_38AED71534AE8FDDF254DA79C6A2D2B12.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/Boxes/Boxes_3.uasset'
+[2020.06.03-18.51.03:636][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/box3F8E2B38A4F085ADECF87919B4F0E5400.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/CardboardBoxes/box3.uasset'
+[2020.06.03-18.51.03:663][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/box_1C2E73B41448BD2B0B650B59F21C71D62.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/CardboardBoxes/box_1.uasset'
+[2020.06.03-18.51.03:693][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/box_24A6119BB4C39B4D2C340FB9296DD0C3C.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/CardboardBoxes/box_2.uasset'
+[2020.06.03-18.51.03:721][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/propane_tank35847AD64F0D22B31EECF09588A1FF78.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/PropaneTank/propane_tank.uasset'
+[2020.06.03-18.51.03:751][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/robot_armA9EAAF5045B9A9517DCC96A20EE46462.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/RobotArm/robot_arm.uasset'
+[2020.06.03-18.51.03:767][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/robot_arm4EDD46F54A02B8DC2A14AF99103F0F51.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/RobotArm/robot_arm.uasset'
+[2020.06.03-18.51.03:795][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/StandingToolBox921696D74190DCB4D4C1498245ADCE18.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/ToolBox/StandingToolBox.uasset'
+[2020.06.03-18.51.03:855][698]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Pallet_trolly16D225704A0D7B80C0235691F6DB2C57.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoomAndMedicalLab/Trolley/Pallet_trolly.uasset'
+[2020.06.03-18.51.04:267][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.06.03-18.51.04:284][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.51.04:305][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.06.03-18.51.04:323][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.51.04:341][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.06.03-18.51.04:360][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.51.04:376][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.06.03-18.51.04:393][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.51.04:410][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.06.03-18.51.04:427][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.06.03-18.51.04:449][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.06.03-18.51.04:468][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.06.03-18.51.20:746][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.06.03-18.51.22:979][628]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.03-18.51.26:609][628]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.03-18.51.28:783][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.03-18.51.32:413][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.06.03-18.51.52:537][315]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.03-18.51.55:606][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.06.03-18.51.55:756][675]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/StorageRoom_Auto1C7AAF0354B3D2681754953B6FFB56E7C.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/Autosaves/Game/Art/Rooms/StorageRoom/StorageRoom_Auto1.umap'
+[2020.06.03-18.51.55:761][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Art/Rooms/StorageRoom/StorageRoom' took 0.188
+[2020.06.03-18.51.55:761][675]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.188
+[2020.06.03-18.52.16:648][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.06.03-18.52.21:910][ 39]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.03-18.52.33:379][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/HospitalScreenB0DCD3F54F503EF9E7DCF5A64F7CDA40.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/Ignore/HospitalScreen/HospitalScreen.uasset'
+[2020.06.03-18.52.33:393][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/HospitalScreenA7885BC1448FEA38D92151841EBF43C6.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/HospitalScreen/HospitalScreen.uasset'
+[2020.06.03-18.52.33:401][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/MedicalTableCEE41726433886E34E426E862CD695F6.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/Ignore/OperationTable/MedicalTable.uasset'
+[2020.06.03-18.52.33:414][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/MedicalTableF8C7D92742D9E5531846BF96D0FD3B1E.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/OperationTable/MedicalTable.uasset'
+[2020.06.03-18.52.33:422][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/closed_organ_boxA0A91D424B67FE7CB954FC8E2EABE88D.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/Ignore/OrganScanner/closed_organ_box.uasset'
+[2020.06.03-18.52.33:434][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/closed_organ_boxBCBE5A4242DFC5FFF5675394B27D9F89.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/OrganScanner/closed_organ_box.uasset'
+[2020.06.03-18.52.33:442][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/glass_jar_jar2F3A698543AC2A34DA3AD2AC04C9DE63.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/Ignore/OrganScanner/glass_jar_jar.uasset'
+[2020.06.03-18.52.33:455][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/glass_jar_jar93C9A049489D9C30DB872C9D91B3FF0D.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/OrganScanner/glass_jar_jar.uasset'
+[2020.06.03-18.52.33:463][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/open_organ_box6B6FF7AC4D036022BCBF41A9FE29F9DE.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/Ignore/OrganScanner/open_organ_box.uasset'
+[2020.06.03-18.52.33:476][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/open_organ_box905378994733F23921AA7DB3E2FD5A33.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/OrganScanner/open_organ_box.uasset'
+[2020.06.03-18.52.33:484][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/paper_1FCCBF60D48CA48851AC23A8F71E9CBAD.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/Ignore/Paper/paper_1.uasset'
+[2020.06.03-18.52.33:496][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/paper_16EEC3AE04AC29E09226506AAE89AD1AE.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/Paper/paper_1.uasset'
+[2020.06.03-18.52.33:504][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/paper_281074DA64C6C9854A57E4782B393DBD8.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/Ignore/Paper/paper_2.uasset'
+[2020.06.03-18.52.33:517][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/paper_2994283A04C1D18DD39700C986B49B191.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/Paper/paper_2.uasset'
+[2020.06.03-18.52.33:525][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/paper_38E79B6DE4822FEC6B9B7B58D5D1B8006.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/Ignore/Paper/paper_3.uasset'
+[2020.06.03-18.52.33:537][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/paper_379EDA0EB47E43932685A20ABEA4463D3.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/Paper/paper_3.uasset'
+[2020.06.03-18.52.33:544][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/scanner_table4B607BEE487DA42E1B199AA2B7619217.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/Ignore/ScannerTable/scanner_table.uasset'
+[2020.06.03-18.52.33:557][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/scanner_table4A0C4619477B050B584D68B0E6C9F0EF.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/ScannerTable/scanner_table.uasset'
+[2020.06.03-18.52.33:565][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/robot_armB0FA8A604CA4C1C57F9D25BC956C2DC4.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/Ignore/RobotArm/robot_arm.uasset'
+[2020.06.03-18.52.33:578][395]LogSavePackage: Moving 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Saved/robot_arm3DF8BC974A7A75FB247AC0A4086E29B8.tmp' to 'D:/Year 3/Collab/CollabUE4/Group-19-Collab/Group19UnrealProject/Content/Art/RoomAssets/StorageRoom/RobotArm/robot_arm.uasset'
+[2020.06.03-18.52.42:860][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.06.03-18.52.44:414][490]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.03-18.52.44:417][490]LogUObjectGlobals: Force Deleting 10 Package(s):
+	Asset Name: /Game/Art/RoomAssets/Ignore/HospitalScreen/HospitalScreen.HospitalScreen
+	Asset Name: /Game/Art/RoomAssets/Ignore/OperationTable/MedicalTable.MedicalTable
+	Asset Name: /Game/Art/RoomAssets/Ignore/OrganScanner/closed_organ_box.closed_organ_box
+	Asset Name: /Game/Art/RoomAssets/Ignore/OrganScanner/glass_jar_jar.glass_jar_jar
+	Asset Name: /Game/Art/RoomAssets/Ignore/OrganScanner/open_organ_box.open_organ_box
+	Asset Name: /Game/Art/RoomAssets/Ignore/Paper/paper_1.paper_1
+	Asset Name: /Game/Art/RoomAssets/Ignore/Paper/paper_2.paper_2
+	Asset Name: /Game/Art/RoomAssets/Ignore/Paper/paper_3.paper_3
+	Asset Name: /Game/Art/RoomAssets/Ignore/ScannerTable/scanner_table.scanner_table
+	Asset Name: /Game/Art/RoomAssets/Ignore/RobotArm/robot_arm.robot_arm
+[2020.06.03-18.52.46:301][490]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.06.03-18.52.47:210][490]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.908 s
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: === Handled ensure: ===
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: 
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 198]
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: Cannot remove redirection from /Game/Art/RoomAssets/Ignore/HospitalScreen/HospitalScreen.HospitalScreen, it was not registered
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: Stack: 
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff97a321711 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff97a019887 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff99c0eddbd UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff977f73d25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff977f7e077 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9777de42f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff977a3f488 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff977a397c4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff979262a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9790b4021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff979130301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff97911aaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff979110414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9ba22b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9ba21ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9ba22d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9ba21c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9e3c2681d USER32.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9e3c26212 USER32.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9ba22e899 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff97913aa95 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9790e012f UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff977ac2ce6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff977f72fd5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff957bd4851 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff957bde5de UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff957bda30f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff957c3120c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff957bdb3f4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff979262a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9790b4021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff979130301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff97911aaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff979110414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9ba22b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9ba21ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9ba22d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9ba21c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9e3c2681d USER32.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9e3c26212 USER32.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9ba22e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff669495d3e UE4Editor.exe!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff6694a554c UE4Editor.exe!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff6694a55ca UE4Editor.exe!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff6694b316c UE4Editor.exe!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff6694b5b8e UE4Editor.exe!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9e3df7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: [Callstack] 0x00007ff9e46ccee1 ntdll.dll!UnknownFunction []
+[2020.06.03-18.52.47:210][490]LogOutputDevice: Error: 
+[2020.06.03-18.52.47:215][490]LogStats:                SubmitErrorReport -  0.000 s
