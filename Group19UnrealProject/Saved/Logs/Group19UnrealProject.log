@@ -665,3 +665,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-23.35.36:774][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/UI/MainMenu]
 [2020.06.10-23.35.36:785][580]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/MainMenu_Auto2050032D941E293CD6BA5F886A67FDE95.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/Autosaves/Game/Character/UI/MainMenu_Auto2.uasset'
 [2020.06.10-23.35.36:788][580]LogFileHelpers: Auto-saving content packages took 0.014
+[2020.06.11-00.20.25:354][395]BlueprintLog: New page: Compile MainMenu
+[2020.06.11-00.20.26:160][395]LogUObjectHash: Compacting FUObjectHashTables data took  14.31ms
+[2020.06.11-00.20.42:965][250]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Game/Character/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0
+[2020.06.11-00.20.42:965][250]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_3.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.20.42:965][250]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_4.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.20.42:965][250]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_5.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.20.42:965][250]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Game/Character/UI/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.06.11-00.20.42:965][250]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_11.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.20.42:965][250]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_12.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.20.42:965][250]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_13.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.20.42:965][250]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_14.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.20.42:965][250]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_12.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_6 or CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_13.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_6
+[2020.06.11-00.20.42:965][250]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_12.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_6 or CanvasPanelSlot /Game/Character/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_6
+[2020.06.11-00.20.42:965][250]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_12.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_6 or CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_14.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_6
+[2020.06.11-00.20.42:965][250]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_12.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_6) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_112).  Import failed...
+[2020.06.11-00.20.42:965][250]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_6"''
+[2020.06.11-00.21.05:593][561]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.11-00.21.17:232][253]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.11-00.21.48:621][ 89]LogEditorTransaction: Undo Wrap Widgets
+[2020.06.11-00.21.49:043][112]LogEditorTransaction: Undo Move Widget
+[2020.06.11-00.22.51:065][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.06.11-00.22.51:065][778]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MenuLevel' took 0.092
+[2020.06.11-00.22.51:067][778]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/UI/MainMenu] ([1] browsable assets)...
+[2020.06.11-00.22.51:067][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/UI/MainMenu]
+[2020.06.11-00.22.51:083][778]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/MainMenu_Auto387E0D0F040198BD4CBDB12A891DCA8A9.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/Autosaves/Game/Character/UI/MainMenu_Auto3.uasset'
+[2020.06.11-00.22.51:085][778]LogFileHelpers: Auto-saving content packages took 0.019
+[2020.06.11-00.25.08:917][992]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 98992
+[2020.06.11-00.25.09:027][993]LogSlate: Took 0.048325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.11-00.25.09:048][993]LogSlate: Took 0.016346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.11-00.25.09:102][993]LogSlate: Took 0.053757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.11-00.25.09:141][993]LogSlate: Took 0.037439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.11-00.25.09:143][993]LogSlate: Took 0.000693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.11-00.25.09:997][ 37]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 45
+[2020.06.11-00.25.10:011][ 38]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.11-00.25.10:017][ 38]LogSlate: Took 0.000492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.11-00.25.10:019][ 38]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.11-00.25.10:020][ 38]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.11-00.25.10:022][ 38]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.11-00.27.04:716][163]LogSlate: Took 0.000734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
