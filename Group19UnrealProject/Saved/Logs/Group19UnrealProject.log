@@ -704,3 +704,509 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.11-00.25.10:020][ 38]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2020.06.11-00.25.10:022][ 38]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2020.06.11-00.27.04:716][163]LogSlate: Took 0.000734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.11-00.29.39:287][971]AssetReimport: New page: Outstanding source content changes 02:29:39
+[2020.06.11-00.29.39:442][972]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/BloodsplatterImage.png)
+[2020.06.11-00.29.40:395][973]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/BloodsplatterTitle.png)
+[2020.06.11-00.29.41:409][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BloodsplatterImage" FILE="../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/BloodsplatterImage.uasset" SILENT=true
+[2020.06.11-00.29.41:479][974]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/BloodsplatterImageAEE85FBA4B10935C553962BD994862F6.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/BloodsplatterImage.uasset'
+[2020.06.11-00.29.41:510][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BloodsplatterTitle" FILE="../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/BloodsplatterTitle.uasset" SILENT=true
+[2020.06.11-00.29.41:724][974]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/BloodsplatterTitleF8DE3CE143ACCD9C9F8FC8ADD4817B0C.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/BloodsplatterTitle.uasset'
+[2020.06.11-00.29.44:915][144]AssetReimport: Importing new asset /Game/BloodsplatterImage.
+[2020.06.11-00.29.44:915][144]AssetReimport: Importing new asset /Game/BloodsplatterTitle.
+[2020.06.11-00.29.54:583][684]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.06.11-00.29.55:819][684]LogSlate: Window 'Save Content' being destroyed
+[2020.06.11-00.29.58:988][848]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/BloodsplatterImage25DFEB474D0CA787F27DF4AFDEFDC948.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/BloodsplatterImage.uasset'
+[2020.06.11-00.29.59:399][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.06.11-00.29.59:478][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.06.11-00.29.59:518][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.06.11-00.30.01:904][968]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/BloodsplatterTitleE454021E483E885C4F6AFD89E68EA2F9.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/BloodsplatterTitle.uasset'
+[2020.06.11-00.30.02:154][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.06.11-00.30.02:200][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.06.11-00.30.02:238][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.06.11-00.30.08:006][302]BlueprintLog: New page: Compile MainMenu
+[2020.06.11-00.30.08:065][302]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Game/Character/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_3.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_4.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_5.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Game/Character/UI/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_24.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_23.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_18.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_13.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_17.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_16.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_15.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_25.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_MainMenu_C_23:WidgetTree.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_26.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_27.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_28.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_29.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_30.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_31.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_32.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_33.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:381][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_34.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.33.32:382][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_27.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19 or CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_28.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19
+[2020.06.11-00.33.32:382][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_27.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19 or CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_29.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19
+[2020.06.11-00.33.32:382][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_27.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19 or CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_30.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19
+[2020.06.11-00.33.32:382][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_27.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19 or CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_31.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19
+[2020.06.11-00.33.32:382][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_27.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19 or CanvasPanelSlot /Game/Character/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_19
+[2020.06.11-00.33.32:382][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_27.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19 or CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_33.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19
+[2020.06.11-00.33.32:382][217]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_27.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19 or CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_34.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19
+[2020.06.11-00.33.32:382][217]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_27.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_19) from referencer (Image /Engine/UMG/Editor/Transient.PlayBloodImage).  Import failed...
+[2020.06.11-00.33.32:382][217]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_19"''
+[2020.06.11-00.37.06:222][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.06.11-00.37.06:222][313]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MenuLevel' took 0.059
+[2020.06.11-00.37.06:223][313]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/UI/MainMenu] ([1] browsable assets)...
+[2020.06.11-00.37.06:223][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/UI/MainMenu]
+[2020.06.11-00.37.06:242][313]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/MainMenu_Auto4D3E595EA4BCEEBC934B162A0B39F3314.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/Autosaves/Game/Character/UI/MainMenu_Auto4.uasset'
+[2020.06.11-00.37.06:244][313]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.06.11-00.37.59:466][757]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Game/Character/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_3.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_4.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_5.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Game/Character/UI/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_24.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_23.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_18.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_13.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_17.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_16.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_15.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_25.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_MainMenu_C_23:WidgetTree.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_43.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_27.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_42.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_28.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:627][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_41.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:628][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_36.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:628][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_29.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:628][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_35.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:628][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_34.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:628][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_33.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:628][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_32.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:628][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_44.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:628][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_45.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:628][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.World_3:MainMenu_C_10.WidgetTree_0.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_46.WidgetTree_0.CanvasPanel_0
+[2020.06.11-00.39.46:628][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_43.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_29 or CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_45.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_29
+[2020.06.11-00.39.46:628][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_43.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_29 or CanvasPanelSlot /Game/Character/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_29
+[2020.06.11-00.39.46:628][ 48]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_43.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_29 or CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_46.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_29
+[2020.06.11-00.39.46:628][ 48]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.World_3:MainMenu_C_43.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_29) from referencer (Button /Engine/UMG/Editor/Transient.Button_103).  Import failed...
+[2020.06.11-00.39.46:628][ 48]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_29"''
+[2020.06.11-00.41.51:967][283]LogSlate: Took 0.020119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.11-00.43.01:602][297]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.06.11-00.43.01:627][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/UI/MainMenu" FILE="../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/UI/MainMenu.uasset" SILENT=true
+[2020.06.11-00.43.01:754][297]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/MainMenuA057D68448E9368534710FBC20BBF0D0.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/UI/MainMenu.uasset'
+[2020.06.11-00.43.03:586][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.06.11-00.43.18:847][193]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Character/UI/MainMenu.MainMenu
+[2020.06.11-00.43.24:541][480]BlueprintLog: New page: Compile MainMenu
+[2020.06.11-00.43.25:369][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.06.11-00.45.25:108][521]BlueprintLog: New page: Compile MainMenu
+[2020.06.11-00.45.25:168][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.06.11-00.45.26:707][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.06.11-00.45.26:732][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/UI/MainMenu" FILE="../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/UI/MainMenu.uasset" SILENT=true
+[2020.06.11-00.45.27:054][608]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/MainMenuEF6199B54C8A65B36CCE02959E5E7007.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/UI/MainMenu.uasset'
+[2020.06.11-00.45.42:952][539]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/MenuPawn_BP.MenuPawn_BP
+[2020.06.11-00.45.58:308][374]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.06.11-00.46.12:330][177]BlueprintLog: New page: Compile MenuPawn_BP
+[2020.06.11-00.46.12:628][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.06.11-00.46.13:946][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.06.11-00.46.13:969][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MenuPawn_BP" FILE="../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/MenuPawn_BP.uasset" SILENT=true
+[2020.06.11-00.46.14:049][249]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/MenuPawn_BP8B1B62784E94B094E51B969879198E70.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/MenuPawn_BP.uasset'
+[2020.06.11-00.46.41:701][845]BlueprintLog: New page: Compile MenuPawn_BP
+[2020.06.11-00.46.41:933][845]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.06.11-00.46.44:263][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.06.11-00.46.44:286][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MenuPawn_BP" FILE="../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/MenuPawn_BP.uasset" SILENT=true
+[2020.06.11-00.46.44:323][974]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/MenuPawn_BP3A823769465F77BFC990DC9F4531FDD6.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/MenuPawn_BP.uasset'
+[2020.06.11-00.47.04:378][159]BlueprintLog: New page: Compile MenuController_BP
+[2020.06.11-00.47.04:742][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.06.11-00.47.06:129][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.06.11-00.47.06:226][222]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/MenuController_BP6FFD62974BCD66A5DB6FFBB4176DCF1C.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/MenuController_BP.uasset'
+[2020.06.11-00.47.08:880][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.06.11-00.47.13:410][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.11-00.47.14:514][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.06.11-00.47.16:580][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.11-00.47.16:715][833]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-00.47.16:842][833]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuLevel.MenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MenuLevel.MenuLevel:PersistentLevel.MenuLevel' with GeneratedClass '/Game/MenuLevel.MenuLevel_C' with ClassGeneratedBy '/Game/MenuLevel.MenuLevel:PersistentLevel.MenuLevel'
+[2020.06.11-00.47.16:869][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-00.47.16:931][833]PIE: New page: PIE session: MenuLevel (11 Jun 2020 02:47:16)
+[2020.06.11-00.47.17:249][833]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuLevel
+[2020.06.11-00.47.17:330][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080582s)
+[2020.06.11-00.47.17:393][833]LogAIModule: Creating AISystem for world MenuLevel
+[2020.06.11-00.47.17:453][833]LogPlayLevel: PIE: World Init took: (0.123859s)
+[2020.06.11-00.47.17:453][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuLevel.MenuLevel to /Game/UEDPIE_0_MenuLevel.MenuLevel (0.205068s)
+[2020.06.11-00.47.17:535][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.06.11-00.47.17:635][833]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.11-00.47.18:737][833]LogInit: FAudioDevice initialized.
+[2020.06.11-00.47.19:083][833]LogLoad: Game class is 'MenuGameMode_C'
+[2020.06.11-00.47.19:107][833]LogWorld: Bringing World /Game/UEDPIE_0_MenuLevel.MenuLevel up for play (max tick rate 60) at 2020.06.11-01.47.19
+[2020.06.11-00.47.19:179][833]LogWorld: Bringing up level for play took: 0.092339
+[2020.06.11-00.47.19:630][833]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.06.11-00.47.19:675][833]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.06.11-00.47.19:676][833]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2020.06.11-00.47.20:078][833]PIE: Play in editor start time for /Game/UEDPIE_0_MenuLevel 3.929
+[2020.06.11-00.47.20:078][833]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuLevel.MenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MenuLevel.MenuLevel:PersistentLevel.MenuLevel' with GeneratedClass '/Game/MenuLevel.MenuLevel_C' with ClassGeneratedBy '/Game/MenuLevel.MenuLevel:PersistentLevel.MenuLevel'
+[2020.06.11-00.47.28:038][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-00.47.28:050][207]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuLevel.MenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MenuLevel.MenuLevel:PersistentLevel.MenuLevel' with GeneratedClass '/Game/MenuLevel.MenuLevel_C' with ClassGeneratedBy '/Game/MenuLevel.MenuLevel:PersistentLevel.MenuLevel'
+[2020.06.11-00.47.28:234][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-00.47.28:234][207]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuLevel.MenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MenuLevel.MenuLevel:PersistentLevel.MenuLevel' with GeneratedClass '/Game/MenuLevel.MenuLevel_C' with ClassGeneratedBy '/Game/MenuLevel.MenuLevel:PersistentLevel.MenuLevel'
+[2020.06.11-00.47.28:413][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-00.47.28:696][207]LogUObjectHash: Compacting FUObjectHashTables data took  25.69ms
+[2020.06.11-00.47.28:765][208]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.06.11-00.48.14:772][664]BlueprintLog: New page: Compile MainMenu
+[2020.06.11-00.48.14:887][664]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.06.11-00.48.16:218][730]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2020.06.11-00.48.16:246][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/UI/MainMenu" FILE="../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/UI/MainMenu.uasset" SILENT=true
+[2020.06.11-00.48.16:316][730]LogSavePackage: Moving '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Saved/MainMenu8AEC31594DD95C7F9CCD839458ECAA5E.tmp' to '../../../../../../University/Junior_Senior/Group-19-Collab/Group19UnrealProject/Content/Character/UI/MainMenu.uasset'
+[2020.06.11-00.48.16:934][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.06.11-00.48.18:199][761]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.06.11-00.48.18:820][761]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.06.11-00.48.18:910][761]LogSlate: Window 'Group19UnrealProject - Unreal Editor' being destroyed
+[2020.06.11-00.48.20:226][762]Cmd: QUIT_EDITOR
+[2020.06.11-00.48.22:352][762]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.11-00.48.22:753][762]LogExit: Preparing to exit.
+[2020.06.11-00.48.29:091][762]LogExit: Editor shut down
+[2020.06.11-00.48.29:093][762]LogExit: Transaction tracking system shut down
+[2020.06.11-00.48.35:013][762]LogExit: Object subsystem successfully closed.
+[2020.06.11-00.48.35:525][762]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.11-00.48.35:703][762]LogD3D11RHI: Shutdown
+[2020.06.11-00.48.35:703][762]LogD3D11RHI: CleanupD3DDevice
+[2020.06.11-00.48.35:829][762]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.06.11-00.48.35:875][762]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.11-00.48.36:015][762]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.06.11-00.48.36:015][762]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.11-00.48.36:015][762]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.06.11-00.48.36:015][762]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.11-00.48.40:697][762]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.06.11-00.48.42:957][762]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2020.06.11-00.48.42:957][762]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2020.06.11-00.48.42:970][762]LogModuleManager: Shutting down and abandoning module SequencerWidgets (646)
+[2020.06.11-00.48.42:970][762]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2020.06.11-00.48.42:970][762]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2020.06.11-00.48.42:971][762]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2020.06.11-00.48.42:971][762]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2020.06.11-00.48.43:163][762]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2020.06.11-00.48.43:163][762]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2020.06.11-00.48.43:163][762]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2020.06.11-00.48.43:172][762]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.06.11-00.48.43:204][762]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.06.11-00.48.43:213][762]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.06.11-00.48.43:295][762]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.06.11-00.48.43:316][762]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.06.11-00.48.43:316][762]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.06.11-00.48.43:316][762]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.06.11-00.48.43:316][762]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.06.11-00.48.43:316][762]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.06.11-00.48.43:334][762]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.06.11-00.48.43:438][762]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.06.11-00.48.43:454][762]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.06.11-00.48.43:529][762]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.06.11-00.48.43:529][762]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.06.11-00.48.43:580][762]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.06.11-00.48.43:778][762]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.06.11-00.48.43:944][762]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.06.11-00.48.43:944][762]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.06.11-00.48.44:118][762]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.06.11-00.48.44:163][762]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.06.11-00.48.44:163][762]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.06.11-00.48.44:163][762]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.06.11-00.48.44:163][762]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.06.11-00.48.44:163][762]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.06.11-00.48.44:231][762]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.06.11-00.48.44:410][762]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.06.11-00.48.44:540][762]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.06.11-00.48.44:598][762]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.06.11-00.48.44:598][762]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.06.11-00.48.44:598][762]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.06.11-00.48.44:643][762]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.06.11-00.48.44:643][762]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.06.11-00.48.44:643][762]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.06.11-00.48.44:643][762]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.06.11-00.48.44:643][762]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.06.11-00.48.44:643][762]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.06.11-00.48.44:643][762]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.06.11-00.48.44:643][762]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.06.11-00.48.44:643][762]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.06.11-00.48.44:643][762]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.06.11-00.48.44:643][762]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.06.11-00.48.44:643][762]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.06.11-00.48.44:676][762]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.06.11-00.48.44:676][762]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.06.11-00.48.44:677][762]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.06.11-00.48.44:881][762]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.06.11-00.48.45:025][762]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.06.11-00.48.45:324][762]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.06.11-00.48.45:462][762]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.06.11-00.48.45:568][762]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.06.11-00.48.45:568][762]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.06.11-00.48.45:595][762]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.06.11-00.48.45:595][762]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.06.11-00.48.45:595][762]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.06.11-00.48.45:783][762]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.06.11-00.48.45:783][762]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.06.11-00.48.45:790][762]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.06.11-00.48.45:790][762]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.06.11-00.48.45:790][762]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.06.11-00.48.45:825][762]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.06.11-00.48.45:912][762]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.06.11-00.48.46:094][762]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.06.11-00.48.46:111][762]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.06.11-00.48.46:128][762]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.06.11-00.48.46:128][762]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.06.11-00.48.46:144][762]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.06.11-00.48.46:155][762]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.06.11-00.48.46:164][762]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.06.11-00.48.46:164][762]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.06.11-00.48.46:164][762]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.06.11-00.48.46:165][762]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.06.11-00.48.46:165][762]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.06.11-00.48.46:197][762]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.06.11-00.48.46:211][762]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.06.11-00.48.46:230][762]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.06.11-00.48.46:251][762]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.06.11-00.48.46:274][762]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.06.11-00.48.46:334][762]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.06.11-00.48.46:374][762]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.06.11-00.48.46:405][762]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.06.11-00.48.46:448][762]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.06.11-00.48.46:448][762]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.06.11-00.48.46:464][762]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.06.11-00.48.46:464][762]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.06.11-00.48.46:498][762]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.06.11-00.48.46:572][762]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.06.11-00.48.46:572][762]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.06.11-00.48.46:572][762]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.06.11-00.48.46:605][762]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.06.11-00.48.46:605][762]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.06.11-00.48.46:607][762]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.06.11-00.48.46:607][762]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.06.11-00.48.46:627][762]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.06.11-00.48.46:648][762]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.06.11-00.48.46:648][762]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.06.11-00.48.46:665][762]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.06.11-00.48.46:665][762]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.06.11-00.48.46:697][762]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.06.11-00.48.46:697][762]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.06.11-00.48.46:697][762]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.06.11-00.48.46:697][762]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.06.11-00.48.46:710][762]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.06.11-00.48.46:710][762]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.06.11-00.48.46:710][762]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.06.11-00.48.46:710][762]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.06.11-00.48.46:710][762]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.06.11-00.48.46:710][762]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.06.11-00.48.46:724][762]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.06.11-00.48.46:724][762]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.06.11-00.48.46:737][762]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.06.11-00.48.46:737][762]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.06.11-00.48.46:737][762]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.06.11-00.48.46:744][762]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.06.11-00.48.46:812][762]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.06.11-00.48.46:933][762]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.06.11-00.48.46:933][762]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.06.11-00.48.46:950][762]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.06.11-00.48.46:965][762]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.06.11-00.48.46:982][762]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.06.11-00.48.46:982][762]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.06.11-00.48.46:982][762]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.06.11-00.48.46:998][762]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.06.11-00.48.46:998][762]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.06.11-00.48.47:009][762]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.06.11-00.48.47:009][762]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.06.11-00.48.47:009][762]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.06.11-00.48.47:009][762]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.06.11-00.48.47:022][762]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.06.11-00.48.47:027][762]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.06.11-00.48.47:027][762]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.06.11-00.48.47:027][762]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.06.11-00.48.47:027][762]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.06.11-00.48.47:027][762]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.06.11-00.48.47:036][762]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.06.11-00.48.47:046][762]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.06.11-00.48.47:046][762]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.06.11-00.48.47:046][762]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.06.11-00.48.47:046][762]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.06.11-00.48.47:061][762]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.06.11-00.48.47:061][762]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.06.11-00.48.47:061][762]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.06.11-00.48.47:061][762]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.06.11-00.48.47:061][762]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.06.11-00.48.47:061][762]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.06.11-00.48.47:061][762]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.06.11-00.48.47:061][762]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.06.11-00.48.47:061][762]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.06.11-00.48.47:076][762]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.06.11-00.48.47:076][762]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.06.11-00.48.47:175][762]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.06.11-00.48.47:185][762]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.06.11-00.48.47:199][762]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.06.11-00.48.47:199][762]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.06.11-00.48.47:199][762]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.06.11-00.48.47:217][762]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.06.11-00.48.47:218][762]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.06.11-00.48.47:218][762]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.06.11-00.48.47:246][762]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.06.11-00.48.47:318][762]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.06.11-00.48.47:416][762]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.06.11-00.48.47:447][762]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.06.11-00.48.47:447][762]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.06.11-00.48.47:447][762]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.06.11-00.48.47:447][762]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.06.11-00.48.47:447][762]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.06.11-00.48.47:465][762]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.06.11-00.48.47:465][762]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.06.11-00.48.47:465][762]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.06.11-00.48.47:504][762]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.06.11-00.48.47:504][762]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.06.11-00.48.47:504][762]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.06.11-00.48.47:504][762]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.06.11-00.48.47:504][762]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.06.11-00.48.47:504][762]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.06.11-00.48.47:504][762]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.06.11-00.48.47:606][762]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.06.11-00.48.48:045][762]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.06.11-00.48.48:045][762]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.06.11-00.48.48:060][762]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.06.11-00.48.48:084][762]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.06.11-00.48.48:084][762]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.06.11-00.48.48:093][762]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.11-00.48.48:094][762]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.06.11-00.48.48:094][762]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.06.11-00.48.48:094][762]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.06.11-00.48.48:101][762]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.06.11-00.48.48:130][762]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.06.11-00.48.48:130][762]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.06.11-00.48.48:130][762]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.06.11-00.48.48:325][762]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.06.11-00.48.48:389][762]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.06.11-00.48.48:428][762]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.06.11-00.48.48:443][762]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.06.11-00.48.48:443][762]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.06.11-00.48.48:572][762]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.06.11-00.48.48:576][762]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.06.11-00.48.48:695][762]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.06.11-00.48.48:695][762]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.06.11-00.48.48:695][762]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.06.11-00.48.48:695][762]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.06.11-00.48.48:703][762]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.06.11-00.48.48:720][762]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.06.11-00.48.48:720][762]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.06.11-00.48.48:757][762]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.06.11-00.48.48:757][762]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.06.11-00.48.48:782][762]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.06.11-00.48.48:782][762]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.06.11-00.48.48:782][762]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.06.11-00.48.48:782][762]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.06.11-00.48.48:800][762]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.06.11-00.48.48:819][762]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.06.11-00.48.48:819][762]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.06.11-00.48.48:876][762]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.06.11-00.48.48:889][762]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.06.11-00.48.48:913][762]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.06.11-00.48.48:936][762]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.06.11-00.48.48:936][762]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.06.11-00.48.48:936][762]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.06.11-00.48.48:959][762]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.06.11-00.48.48:959][762]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.06.11-00.48.49:045][762]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.06.11-00.48.49:045][762]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.06.11-00.48.49:104][762]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.06.11-00.48.49:128][762]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.06.11-00.48.49:128][762]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.06.11-00.48.49:142][762]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.06.11-00.48.49:142][762]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.06.11-00.48.49:142][762]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.06.11-00.48.49:142][762]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.06.11-00.48.49:142][762]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.06.11-00.48.49:142][762]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.06.11-00.48.49:142][762]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.06.11-00.48.49:157][762]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.06.11-00.48.49:157][762]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.06.11-00.48.49:166][762]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.06.11-00.48.49:195][762]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.06.11-00.48.49:238][762]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.06.11-00.48.49:249][762]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.06.11-00.48.49:308][762]LogDerivedDataCache: Shutdown
+[2020.06.11-00.48.49:308][762]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.06.11-00.48.49:308][762]LogXGEController: Cleaning working directory: C:/Users/ben_l/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.11-00.48.49:365][762]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.06.11-00.48.49:405][762]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.06.11-00.48.49:418][762]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.06.11-00.48.49:436][762]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.06.11-00.48.49:484][762]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.06.11-00.48.49:502][762]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.06.11-00.48.49:506][762]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.06.11-00.48.49:506][762]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.06.11-00.48.49:512][762]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.06.11-00.48.49:512][762]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.06.11-00.48.49:536][762]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.06.11-00.48.49:536][762]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.06.11-00.48.49:536][762]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.06.11-00.48.49:536][762]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.06.11-00.48.49:555][762]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.06.11-00.48.49:555][762]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.06.11-00.48.49:555][762]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.06.11-00.48.49:639][762]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.06.11-00.48.49:639][762]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.06.11-00.48.49:649][762]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.06.11-00.48.49:658][762]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.06.11-00.48.49:658][762]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.06.11-00.48.49:759][762]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.06.11-00.48.49:759][762]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.06.11-00.48.49:764][762]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.06.11-00.48.49:764][762]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.06.11-00.48.49:810][762]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.06.11-00.48.49:889][762]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.06.11-00.48.49:890][762]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.06.11-00.48.49:890][762]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.06.11-00.48.49:890][762]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.06.11-00.48.49:890][762]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.06.11-00.48.49:890][762]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.06.11-00.48.49:890][762]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.06.11-00.48.49:894][762]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.06.11-00.48.49:894][762]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.06.11-00.48.49:894][762]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.06.11-00.48.49:894][762]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.06.11-00.48.49:895][762]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.06.11-00.48.49:895][762]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.06.11-00.48.49:911][762]LogHMD: Freeing OpenVRDLLHandle.
+[2020.06.11-00.48.49:911][762]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.06.11-00.48.49:926][762]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.06.11-00.48.49:926][762]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.06.11-00.48.49:926][762]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.06.11-00.48.49:926][762]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.06.11-00.48.49:927][762]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.06.11-00.48.50:029][762]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.06.11-00.48.50:091][762]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.06.11-00.48.50:091][762]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.06.11-00.48.50:091][762]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA468E46B-45E1-46F1-5695-9BADD8F71674%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=079544c34e59cd4dfa6cd39c050931c9%7Ccd6f8cb9e0c04353aec384c23917280a%7C381693fb-4305-4ce4-b24c-31a8fda10d14&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.06.11-00.48.50:113][762]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.06.11-00.48.50:181][762]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.06.11-00.48.50:222][762]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.06.11-00.48.50:229][762]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.06.11-00.48.50:265][762]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.06.11-00.48.50:265][762]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.06.11-00.48.50:282][762]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.06.11-00.48.50:301][762]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.06.11-00.48.50:407][762]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.06.11-00.48.50:407][762]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.06.11-00.48.50:407][762]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.06.11-00.48.50:407][762]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.06.11-00.48.50:547][762]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.06.11-00.48.50:575][762]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.06.11-00.48.50:575][762]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.06.11-00.48.50:587][762]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.06.11-00.48.50:588][762]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.06.11-00.48.50:588][762]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.06.11-00.48.50:588][762]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.06.11-00.48.50:599][762]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.06.11-00.48.50:599][762]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.06.11-00.48.50:617][762]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.06.11-00.48.50:617][762]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.06.11-00.48.50:640][762]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.06.11-00.48.50:710][762]LogExit: Exiting.
+[2020.06.11-00.48.50:925][762]Log file closed, 06/11/20 01:48:50
